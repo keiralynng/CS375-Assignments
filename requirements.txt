@@ -1,9 +1,0 @@
-duckdb
-datasets
-huggingface_hub
-boto3
-pandas
-pyarrow
-pillow
-imageio
-imageio-ffmpeg
