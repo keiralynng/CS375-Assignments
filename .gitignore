@@ -1,6 +1,0 @@
-.env
-local-store/
-rustfs-data/
-rustfs-logs/
-__pycache__/
-*.pyc
